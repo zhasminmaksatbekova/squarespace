@@ -1,0 +1,36 @@
+.exclusive{
+    background: #60777C;
+    border-radius: 0px;
+    padding-bottom: 120px;
+}
+.exclusive__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.exclusive__title{
+    color: #FFFFFF;
+    width: 600px;
+    padding-top: 80px;
+}
+.exclusive__text{
+    color: #FFFFFF;
+    width: 640px;
+}
+.exclusive__promote{
+    width: 514px;
+}
+.special__edition{
+    background: #FFFFFF;
+    max-height: 100%;
+}
+.exclusive__row{
+    align-items: center;
+}
+.exclusive .col-6{
+    padding-top: 120px;
+}
+.right__content{
+    margin-left: 157px;
+}

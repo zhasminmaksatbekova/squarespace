@@ -1,0 +1,21 @@
+.areas{
+    background-color: #000;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 77px;
+}
+.areas__title{
+    padding-top: 80px;
+    color: #FFFFFF;
+    width: 520px;
+}
+.areas__link{
+    color: #FFFFFF;
+    padding-top: 29px;
+}
+.areas__text{
+    color: #FFFFFF;
+}
+.areas__numbers{
+    padding-top: 82px;
+}

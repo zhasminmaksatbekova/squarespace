@@ -1,0 +1,26 @@
+.piano{
+    background-image: url(../images/png/pianobackground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+.piano__title{
+    color: #FFFFFF;
+    width: 330px;
+    padding-top: 125px;
+}
+.piano__text{
+    color: #FFFFFF;
+    width: 386px;
+    padding-top: 22px;
+}
+.piano__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.piano__link{
+    color: #FFFFFF;
+}

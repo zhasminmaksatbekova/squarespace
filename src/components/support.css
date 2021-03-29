@@ -1,0 +1,24 @@
+.support{
+    background-color: black;
+    padding: 80px 0;
+}
+.support__text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+    color: #FFFFFF;
+    max-width: 540px;
+}
+.support__title{
+    color: #FFFFFF;
+    max-width: 480px;
+}
+.support__link{
+    color: #FFFFFF;
+    padding-bottom: 19px;
+}
+.support__content{
+    margin-left: 157px;
+}

@@ -1,0 +1,32 @@
+.questions{
+    background-color: #000;
+    color: #fff;
+    padding: 75px 0 80px 0;
+}
+.questions__table{
+    border-collapse: collapse; 
+    margin: auto;
+}
+.questions__title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 44px;
+    margin: auto;
+}
+.questions td{
+    border-bottom: 1px solid rgba(202, 202, 202, 0.3);
+    border-top: 1px solid rgba(202, 202, 202, 0.3);
+    padding: 25px 0 25px;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+}

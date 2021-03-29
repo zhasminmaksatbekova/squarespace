@@ -1,0 +1,43 @@
+.footer{
+    background-color: black;
+    padding-top: 120px;
+}
+.footer__button{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #1A1A1A;
+    border: 1px solid #1A1A1A;
+    box-sizing: border-box;
+    border-radius: 0px;
+    padding: 17px 15px 17px 16px;
+    margin-bottom: 12px;
+    margin-right: 250px;
+}
+.menu__list{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.list__name{
+    padding-bottom: 26px;
+}
+.footer__row1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__left{
+    display: flex;
+    flex-direction: column;
+}
+.footer__svg{
+    margin-bottom: 38px;
+}

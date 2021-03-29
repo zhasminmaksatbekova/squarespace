@@ -1,0 +1,59 @@
+.hero{
+  background: url(../images/png/herobackground.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 150px 0;
+  padding-left: 40px;
+}
+.hero__titles{
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #EFEFEF;
+  padding-top: ;
+}
+.hero__title--main{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 72px;
+  color: #FFFFFF;
+  width: 500px;
+  padding-top: 12px;
+}
+.hero__text{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  color: #FFFFFF;
+  width: 500px;
+}
+.hero__button{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  width: 153px;
+  height: 56px;
+  margin-top: 46px;
+  transition: 0.5s;
+}
+.hero__button:hover{
+  background-color: darkgoldenrod;
+  opacity: 0.7;
+  transform: scale(1.1);
+}
+.first__title{
+  padding-right: 49px;
+}

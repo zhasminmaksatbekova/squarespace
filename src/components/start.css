@@ -1,0 +1,28 @@
+.start{
+    background-color: black;
+    padding: 75px 0 80px 0;
+}
+.start__text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 40px;
+    color: #FFFFFF;
+    max-width: 720px;
+    }    
+.start__button{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    padding: 10px 31px;
+}
+.start__row{
+    display: flex;
+    justify-content: space-between;
+}

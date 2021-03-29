@@ -1,0 +1,73 @@
+.price{
+    padding: 80px 0 88px;
+  }
+  .price__content {
+    margin-bottom: 55px;
+    max-width: 280px;
+  }
+  .price__text {
+    font-size: 22px;
+    line-height: 26px;
+    margin-top: 22px;
+  }
+  .price__button {
+    font-size: 18px;
+  }
+  .price__table {
+    text-align: center;
+  }
+  .gray {
+    color: #a1a1a1;
+  }
+  .save {
+    color: #0888c8;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .price__text {
+    font-size: 22px;
+  }
+  .price__cost {
+    font-size: 32px;
+  }
+  .price__time {
+    font-size: 12px;
+  }
+  
+  .table__title {
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+  }
+  .table2 {
+    width: 100%;
+    border-collapse: collapse;
+    padding-right: 25px;
+  }
+  .name {
+    text-align: left;
+    border-bottom: 1px solid #ebebeb;
+  }
+  .line {
+    border-bottom: 1px solid #ebebeb;
+    padding: 15px 0;
+    font-size: 18px;
+    line-height: 15px;
+    color: #000000;
+    text-align: center;
+  }
+  .features__subtitle{
+    font-size: 28px;
+    padding-top: 39px;
+  }
+  .features__list{
+    font-size: 18px;
+    padding-top: 120px;
+  }
+  .price li{
+    background: url(../img/f.svg) no-repeat left 5px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+  }
